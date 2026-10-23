@@ -45,7 +45,7 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD ALL FEATURES",
+            tag: "LOCKET GOLD BY PETER VINCENT",
             tag_gradient: true,
             tag_style: "gold_gradient",
             title: "Lên Locket Gold rồi đó 😎",
