@@ -398,9 +398,9 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Decorative by Duy Vinh",
+                section: "🎨 Decorative by Toan",
                 items: [
-                    { overlay_id: "caption:Cảm ơn Toàn nhé!", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "tortoise.fill", type: "sf_symbol", color: "#183153" }, max_lines: 1, text: "duyvinh09", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:cam_on_toan_nhe", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "💖", type: "emoji" }, max_lines: 1, text: "Cảm Ơn Toàn Nhé!", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Cu 🐎", text_color: "#633B24", type: "static_content" } },
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:snake_vibes", source: "remote", caption: { background: { colors: ["#2E7D32", "#66BB6A"] }, icon: { data: "🐍", type: "emoji" }, max_lines: 1, text: "Snake Vibes", localized_text: { en: "Snake Vibes", vn: "Chất rắn" }, text_color: "#FFFFFFE6", type: "static_content" } },
@@ -409,6 +409,78 @@ if (ua.includes("Locket")) {
                     { overlay_id: "caption:film_diary", source: "remote", alt_text: "Một ngày rất chill", caption: { background: { image: { type: "image", data: "https://public.locketcamera.com/locket-public/gold_promos/gold_promo_camera_roll.png", source: "url" }, colors: ["#D2B48C", "#8B4513"] }, icon: { type: "image", data: "https://public.locketcamera.com/locket-public/journal_calendar_assets/holiday_indicators/st_patricks_indicator%403x.png", source: "url" }, max_lines: 1, text: "Một ngày rất chill", text_color: "#FFFDD0", type: "static_content" } },
                     { overlay_id: "caption:strangers", source: "remote", alt_text: "Người lạ", caption: { background: { image: { type: "image", data: "https://public.locketcamera.com/locket-public/gold_promos/gold_promo_views.png", source: "url" }, colors: ["#1C1C1E", "#2C2C2E"] }, icon: { data: "eye.fill", type: "sf_symbol", color: "#0A84FF" }, max_lines: 1, text: "Người lạ", text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:genz_flex", source: "remote", alt_text: "Mood: Chill", caption: { background: { image: { type: "image", data: "https://public.locketcamera.com/locket-public/gold_promos/gold_promo_widgets.png", source: "url" }, colors: ["#FF9A9E", "#FECFEF"] }, icon: { data: "camera.fill", type: "sf_symbol", color: "#FF007F" }, max_lines: 1, text: "Mood: Chill 💅", text_color: "#FFFFFF", type: "static_content" } },
+                ]
+            },
+            {
+                section: "🔥 Meme viral 2026",
+                items: [
+                    { overlay_id: "caption:meme26_1_01", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "🌧️", "type": "emoji"}, "max_lines": 1, "text": "Hồi chiều trời mưa…", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_02", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "🪵", "type": "emoji"}, "max_lines": 1, "text": "Dạ gỗ xà cừ ạ", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_03", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "👑", "type": "emoji"}, "max_lines": 1, "text": "Công chúa phòng trọ", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_04", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "✨", "type": "emoji"}, "max_lines": 1, "text": "Farm aura mỗi ngày", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_05", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "⚡", "type": "emoji"}, "max_lines": 1, "text": "Aura +1000", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_06", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "🫠", "type": "emoji"}, "max_lines": 1, "text": "Aura -9999", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_07", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "👻", "type": "emoji"}, "max_lines": 1, "text": "Dự án ma 👻", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_08", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "🐎", "type": "emoji"}, "max_lines": 1, "text": "Bá khí luôn á", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_09", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "🥂", "type": "emoji"}, "max_lines": 1, "text": "Tuyệt vời, uống nào!", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_10", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "🛍️", "type": "emoji"}, "max_lines": 1, "text": "Takashimaya 😭", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_11", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "6️⃣", "type": "emoji"}, "max_lines": 1, "text": "Six seven 67", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_12", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "🎫", "type": "emoji"}, "max_lines": 1, "text": "Có thẻ Val và Lili không?", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_13", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "😌", "type": "emoji"}, "max_lines": 1, "text": "Thật không may, tôi lại mê…", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_1_14", source: "remote", caption: {"background": {"colors": ["#FF8A65", "#FFCA28"]}, "icon": {"data": "🍃", "type": "emoji"}, "max_lines": 1, "text": "Gió đưa tôi tới đây", "text_color": "#FFFFFF", "type": "static_content"} },
+                ]
+            },
+            {
+                section: "🤡 Meme cà khịa & Tấu hài",
+                items: [
+                    { overlay_id: "caption:meme26_2_01", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "🚀", "type": "emoji"}, "max_lines": 1, "text": "Đỉnh nóc kịch trần", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_02", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "😭", "type": "emoji"}, "max_lines": 1, "text": "Không cứu nổi 😭", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_03", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "📞", "type": "emoji"}, "max_lines": 1, "text": "Ủa alo?", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_04", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "✋", "type": "emoji"}, "max_lines": 1, "text": "Ê khoan đã", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_05", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "💀", "type": "emoji"}, "max_lines": 1, "text": "Hết cứu rồi", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_06", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "🧶", "type": "emoji"}, "max_lines": 1, "text": "Có cái nịt 🧶", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_07", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "🫨", "type": "emoji"}, "max_lines": 1, "text": "Bất ổn thật sự", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_08", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "💥", "type": "emoji"}, "max_lines": 1, "text": "Chấn động luôn á", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_09", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "🎬", "type": "emoji"}, "max_lines": 1, "text": "Rồi xong phim", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_10", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "🤣", "type": "emoji"}, "max_lines": 1, "text": "Cười không nhặt được mồm", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_11", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "💢", "type": "emoji"}, "max_lines": 1, "text": "Tới công chuyện luôn", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_12", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "😎", "type": "emoji"}, "max_lines": 1, "text": "Thua keo này bày keo khác", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_13", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "😵‍💫", "type": "emoji"}, "max_lines": 1, "text": "Ủa gì dạ trời?", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_2_14", source: "remote", caption: {"background": {"colors": ["#7C4DFF", "#B388FF"]}, "icon": {"data": "🍜", "type": "emoji"}, "max_lines": 1, "text": "Đúng là hết nước chấm", "text_color": "#FFFFFF", "type": "static_content"} },
+                ]
+            },
+            {
+                section: "💅 Mood Gen Z & Brainrot",
+                items: [
+                    { overlay_id: "caption:meme26_3_01", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "🥲", "type": "emoji"}, "max_lines": 1, "text": "Tôi ổn (không hề)", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_02", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "💻", "type": "emoji"}, "max_lines": 1, "text": "Mood hôm nay: 404", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_03", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "🔋", "type": "emoji"}, "max_lines": 1, "text": "Social battery 1%", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_04", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "⏳", "type": "emoji"}, "max_lines": 1, "text": "Não đang loading…", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_05", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "🧠", "type": "emoji"}, "max_lines": 1, "text": "Overthinking premium", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_06", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "🫥", "type": "emoji"}, "max_lines": 1, "text": "Đang ở chế độ vô tri", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_07", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "🎥", "type": "emoji"}, "max_lines": 1, "text": "Main character energy", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_08", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "🫧", "type": "emoji"}, "max_lines": 1, "text": "Delulu is the solulu", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_09", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "🍿", "type": "emoji"}, "max_lines": 1, "text": "Không drama không vui", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_10", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "💅", "type": "emoji"}, "max_lines": 1, "text": "Slay nhẹ một cái", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_11", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "😎", "type": "emoji"}, "max_lines": 1, "text": "Chill guy chính hiệu", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_12", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "🚨", "type": "emoji"}, "max_lines": 1, "text": "Điểm danh hội báo", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_13", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "🗿", "type": "emoji"}, "max_lines": 1, "text": "Sigma nhưng hay khóc", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_3_14", source: "remote", caption: {"background": {"colors": ["#00BFA5", "#80CBC4"]}, "icon": {"data": "💘", "type": "emoji"}, "max_lines": 1, "text": "Rizz đâu không thấy", "text_color": "#FFFFFF", "type": "static_content"} },
+                ]
+            },
+            {
+                section: "🍻 Meme hội bạn & Đi chơi",
+                items: [
+                    { overlay_id: "caption:meme26_4_01", source: "remote", caption: {"background": {"colors": ["#FF4081", "#FFC1E3"]}, "icon": {"data": "💸", "type": "emoji"}, "max_lines": 1, "text": "Kèo này ai trả?", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_4_02", source: "remote", caption: {"background": {"colors": ["#FF4081", "#FFC1E3"]}, "icon": {"data": "🍻", "type": "emoji"}, "max_lines": 1, "text": "Nhậu không bạn ơi", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_4_03", source: "remote", caption: {"background": {"colors": ["#FF4081", "#FFC1E3"]}, "icon": {"data": "🍺", "type": "emoji"}, "max_lines": 1, "text": "Bia bia không say", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_4_04", source: "remote", caption: {"background": {"colors": ["#FF4081", "#FFC1E3"]}, "icon": {"data": "🥂", "type": "emoji"}, "max_lines": 1, "text": "Một hai ba dzô!", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_4_05", source: "remote", caption: {"background": {"colors": ["#FF4081", "#FFC1E3"]}, "icon": {"data": "🤝", "type": "emoji"}, "max_lines": 1, "text": "Kèo này không bùng", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_4_06", source: "remote", caption: {"background": {"colors": ["#FF4081", "#FFC1E3"]}, "icon": {"data": "🪙", "type": "emoji"}, "max_lines": 1, "text": "Hết tiền vẫn đi chơi", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_4_07", source: "remote", caption: {"background": {"colors": ["#FF4081", "#FFC1E3"]}, "icon": {"data": "🎉", "type": "emoji"}, "max_lines": 1, "text": "Đi đâu cũng được miễn vui", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_4_08", source: "remote", caption: {"background": {"colors": ["#FF4081", "#FFC1E3"]}, "icon": {"data": "🪩", "type": "emoji"}, "max_lines": 1, "text": "Cuộc vui mới bắt đầu", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_4_09", source: "remote", caption: {"background": {"colors": ["#FF4081", "#FFC1E3"]}, "icon": {"data": "🌴", "type": "emoji"}, "max_lines": 1, "text": "Đừng gọi, đang chill", "text_color": "#FFFFFF", "type": "static_content"} },
+                    { overlay_id: "caption:meme26_4_10", source: "remote", caption: {"background": {"colors": ["#FF4081", "#FFC1E3"]}, "icon": {"data": "🕺", "type": "emoji"}, "max_lines": 1, "text": "Tối nay lên đồ", "text_color": "#FFFFFF", "type": "static_content"} },
                 ]
             },
             {
@@ -643,6 +715,18 @@ if (ua.includes("Locket")) {
                     { overlay_id: "caption:nhiem_vu_hom_nay_nam_im", source: "remote", caption: { background: { colors: ["#168AAD", "#52B69A", "#D9ED92"] }, icon: { data: "🛌", type: "emoji" }, max_lines: 1, text: "nhiệm vụ hôm nay: nằm im", text_color: "#17483F", type: "static_content" } },
                     { overlay_id: "caption:mai_tinh_nay_ngu", source: "remote", caption: { background: { colors: ["#343A40", "#6C757D", "#ADB5BD"] }, icon: { data: "💀", type: "emoji" }, max_lines: 1, text: "mai tính, nay ngủ", text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:offline_de_hoi_sinh", source: "remote", caption: { background: { colors: ["#006D77", "#83C5BE", "#EDF6F9"] }, icon: { data: "💤", type: "emoji" }, max_lines: 1, text: "offline để hồi sinh", text_color: "#164E52", type: "static_content" } },
+                ]
+            },
+            {
+                section: "🎨 Tên riêng & Nhậu vui 🍻",
+                items: [
+                    { overlay_id: "caption:lam_t", source: "remote", caption: { background: { colors: ["#A7D8FF", "#D3E9FF"] }, icon: { data: "✨", type: "emoji" }, max_lines: 1, text: "Lam T", text_color: "#214E7A", type: "static_content" } },
+                    { overlay_id: "caption:thuy_ngan_pig", source: "remote", caption: { background: { colors: ["#FFB8D2", "#FFE2EE"] }, icon: { data: "🐷", type: "emoji" }, max_lines: 1, text: "Thuý Ngân 🐷", text_color: "#873D63", type: "static_content" } },
+                    { overlay_id: "caption:tn_pig", source: "remote", caption: { background: { colors: ["#FFC4D6", "#FFF0F6"] }, icon: { data: "🐷", type: "emoji" }, max_lines: 1, text: "TN 🐷", text_color: "#8A3F62", type: "static_content" } },
+                    { overlay_id: "caption:hoai_lam_paw", source: "remote", caption: { background: { colors: ["#CBE8D6", "#EEF9F2"] }, icon: { data: "🐾", type: "emoji" }, max_lines: 1, text: "🐾 Hoài Lam 🐾", text_color: "#2E6245", type: "static_content" } },
+                    { overlay_id: "caption:nhau_de", source: "remote", caption: { background: { colors: ["#F8A63E", "#FFE087"] }, icon: { data: "🍻", type: "emoji" }, max_lines: 1, text: "Nhậu đê", text_color: "#603B0C", type: "static_content" } },
+                    { overlay_id: "caption:biabia", source: "remote", caption: { background: { colors: ["#F5C842", "#F8E9A4"] }, icon: { data: "🍺", type: "emoji" }, max_lines: 1, text: "BiaBia", text_color: "#69460D", type: "static_content" } },
+                    { overlay_id: "caption:cam_on_toan_nhe_2", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "💖", type: "emoji" }, max_lines: 1, text: "Cảm Ơn Toàn Nhé!", text_color: "#183153", type: "static_content" } },
                 ]
             },
             {
