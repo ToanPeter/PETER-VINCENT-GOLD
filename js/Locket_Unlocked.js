@@ -95,10 +95,10 @@ if (ua.includes("Locket")) {
     // ============================================================
     Object.assign(obj.entries, {
         camera: JSON.stringify({
-            gold_max_duration: 60.0,
-            goldMaxDuration: 60.0,
-            max_duration: 60.0,
-            maxDuration: 60.0,
+            gold_max_duration: 90.0,
+            goldMaxDuration: 90.0,
+            max_duration: 90.0,
+            maxDuration: 90.0,
             ultra_wide: true,
             ultraWide: true,
             volume_button: true,
@@ -107,8 +107,8 @@ if (ua.includes("Locket")) {
             telephoto: true,
             srgb: true,
             lanczos: true,
-            quality_mbps: 0.6,
-            qualityMbps: 0.6
+            quality_mbps: 0.9,
+            qualityMbps: 0.9
         }),
         camera_roll: JSON.stringify({
             gold_max_duration: 30.0,
@@ -414,13 +414,13 @@ if (ua.includes("Locket")) {
             {
                 section: "🎨 Tên riêng & Nhậu vui 🍻",
                 items: [
-                    { overlay_id: "caption:lam_t", source: "remote", caption: { background: { colors: ["#A7D8FF", "#D3E9FF"] }, icon: { data: "✨", type: "emoji" }, max_lines: 1, text: "Lam T", text_color: "#214E7A", type: "static_content" } },
-                    { overlay_id: "caption:thuy_ngan_pig", source: "remote", caption: { background: { colors: ["#FFB8D2", "#FFE2EE"] }, icon: { data: "🐷", type: "emoji" }, max_lines: 1, text: "Thuý Ngân 🐷", text_color: "#873D63", type: "static_content" } },
-                    { overlay_id: "caption:tn_pig", source: "remote", caption: { background: { colors: ["#FFC4D6", "#FFF0F6"] }, icon: { data: "🐷", type: "emoji" }, max_lines: 1, text: "TN 🐷", text_color: "#8A3F62", type: "static_content" } },
-                    { overlay_id: "caption:hoai_lam_paw", source: "remote", caption: { background: { colors: ["#CBE8D6", "#EEF9F2"] }, icon: { data: "🐾", type: "emoji" }, max_lines: 1, text: "Hoài Lam 🐾", text_color: "#2E6245", type: "static_content" } },
+                    { overlay_id: "caption:lam_t", source: "remote", caption: { background: { colors: ["#A7D8FF", "#D3E9FF"] }, icon: { data: "✨", type: "emoji" }, max_lines: 1, text: "Đang Bận Đi Ẻ", text_color: "#214E7A", type: "static_content" } },
+                    { overlay_id: "caption:thuy_ngan_pig", source: "remote", caption: { background: { colors: ["#FFB8D2", "#FFE2EE"] }, icon: { data: "🐷", type: "emoji" }, max_lines: 1, text: "Ai yêu em Hằng giơ tay 🐷", text_color: "#873D63", type: "static_content" } },
+                    { overlay_id: "caption:tn_pig", source: "remote", caption: { background: { colors: ["#FFC4D6", "#FFF0F6"] }, icon: { data: "🐷", type: "emoji" }, max_lines: 1, text: "Tuất Hiếu 🐷", text_color: "#8A3F62", type: "static_content" } },
+                    { overlay_id: "caption:hoai_lam_paw", source: "remote", caption: { background: { colors: ["#CBE8D6", "#EEF9F2"] }, icon: { data: "🐾", type: "emoji" }, max_lines: 1, text: "Toàn Pro 🐾", text_color: "#2E6245", type: "static_content" } },
                     { overlay_id: "caption:nhau_de", source: "remote", caption: { background: { colors: ["#F8A63E", "#FFE087"] }, icon: { data: "🍻", type: "emoji" }, max_lines: 1, text: "Nhậu đê", text_color: "#603B0C", type: "static_content" } },
                     { overlay_id: "caption:biabia", source: "remote", caption: { background: { colors: ["#F5C842", "#F8E9A4"] }, icon: { data: "🍺", type: "emoji" }, max_lines: 1, text: "BiaBia", text_color: "#69460D", type: "static_content" } },
-                    { overlay_id: "caption:biabia", source: "remote", caption: { background: { colors: ["#F5C842", "#F8E9A4"] }, icon: { data: "🍺", type: "emoji" }, max_lines: 1, text: "Lam ơi đi nhậu!", text_color: "#69460D", type: "static_content" } },
+                    { overlay_id: "caption:biabia", source: "remote", caption: { background: { colors: ["#F5C842", "#F8E9A4"] }, icon: { data: "🍺", type: "emoji" }, max_lines: 1, text: "Bạn ơi đi nhậu!", text_color: "#69460D", type: "static_content" } },
                     { overlay_id: "caption:biabia", source: "remote", caption: { background: { colors: ["#F5C842", "#F8E9A4"] }, icon: { data: "🐾", type: "emoji" }, max_lines: 1, text: "Hội An nè", text_color: "#69460D", type: "static_content" } },
                     { overlay_id: "caption:cam_on_toan_nhe_2", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "💖", type: "emoji" }, max_lines: 1, text: "Cảm Ơn Toàn Nhé!", text_color: "#183153", type: "static_content" } },
                 ]
